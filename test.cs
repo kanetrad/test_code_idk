@@ -1,6 +1,7 @@
 Random random = new Random();
 
 int random_number = random.Next(1,100);
+int bot_random = random.Next(1,5);
 
 if (random_number>60)
 {
