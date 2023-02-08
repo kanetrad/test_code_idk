@@ -1,3 +1,6 @@
+//Problem: im stupid
+//Solution: delete all code
+
 Random random = new Random();
 
 int random_number = random.Next(1,100);
