@@ -1,3 +1,6 @@
+// Nothing to see here
+// Just another stupid code
+
 Random random = new Random();
 
 int random_number = random.Next(1,100);
