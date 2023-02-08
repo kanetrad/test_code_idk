@@ -1,11 +1,10 @@
 Random random = new Random();
 
 int random_number = random.Next(1,100);
-int bot_random = random.Next(1,5);
 
 if (random_number>60)
 {
-	int random_five = random.Next(1,5);
+	int bot_random = random.Next(1,5);
 	if (bot_random == 1)
 	{
 		int bot1 = 1;
