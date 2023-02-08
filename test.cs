@@ -1,5 +1,7 @@
 // Nothing to see here
 // Just another stupid code
+//Problem: im stupid
+//Solution: delete all code
 
 Random random = new Random();
 
