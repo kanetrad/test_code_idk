@@ -18,3 +18,4 @@ if (random_number>60)
 		int bot2 = 2;
 		Console.WriteLine(bot2);
 	}
+}
